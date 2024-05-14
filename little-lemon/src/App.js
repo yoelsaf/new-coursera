@@ -4,9 +4,13 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>
-        Hello react
-      </p>
+      <Header>
+        hello react
+      </Header>
+      <img>little</img>
+      <ul></ul>
+      <li></li>
+      <a></a>
     </div>
   );
 }
